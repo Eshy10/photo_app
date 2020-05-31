@@ -21,6 +21,8 @@ gem 'stripe'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
+gem "figaro"
+gem 'fog-aws'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
